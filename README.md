@@ -3,7 +3,7 @@ MCA graduate and Java Developer with hands-on experience in building scalable we
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khan-shaan00.github.io/My-Latest-PortFolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A7F2E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khan-shaan00.github.io/My-Latest-PortFolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moh-salauddeen)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaankhan81633@gmail.com)
 
